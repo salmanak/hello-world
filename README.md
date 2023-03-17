@@ -10,7 +10,7 @@ Click this to _collapse/fold._
 These details _remain_ **hidden** until expanded.
 
 ```
-PASTE LOGS HERE
+print("hello world")
 ```
 
 </details>
