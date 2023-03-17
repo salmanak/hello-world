@@ -1,5 +1,21 @@
 {::options parse_block_html="true" /}
 
+<details>
+<summary>
+
+Click this to _collapse/fold._
+
+</summary>
+
+These details _remain_ **hidden** until expanded.
+
+```
+PASTE LOGS HERE
+```
+
+</details>
+
+
 # hello-world
 My Hello World
 
