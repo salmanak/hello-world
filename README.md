@@ -13,8 +13,18 @@ These details _remain_ **hidden** until expanded.
 print("hello world")
 ```
 
+```python
+print("Hello World!")
+```
+print("Hello World!")
+
+  print("Hello World!")
+
 </details>
 
+```python
+print("Hello World!")
+```
 
 # hello-world
 My Hello World
