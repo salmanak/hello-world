@@ -10,20 +10,20 @@ Click this to _collapse/fold._
 These details _remain_ **hidden** until expanded.
 
 ```
-print("hello world")
+print("hello world 0")
 ```
 
 ```python
-print("Hello World!")
+print("Hello World 1")
 ```
-print("Hello World!")
+print("Hello World 2")
 
-  print("Hello World!")
+  print("Hello World 3")
 
 </details>
 
 ```python
-print("Hello World!")
+print("Hello World 4")
 ```
 
 # hello-world
